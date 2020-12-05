@@ -1,3 +1,3 @@
-const imgSlider = (anything) => {
-    document.querySelector('.starbucks').src = anything
-}
+// const imgSlider = (anything) => {
+//     document.querySelector('.starbucks').src = anything
+// }
